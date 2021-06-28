@@ -1,26 +1,31 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Alexandre Vérine
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: Ph.D Student
+
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Stanford University
-  url: https://www.stanford.edu/
+- name: LAMSADE
+  url: https://www.lamsade.dauphine.fr/en.html
+- name: Université Paris-Dauphine
+  url: https://dauphine.psl.eu/en/
+- name: Université Paris Sciences et Lettres
+  url: https://psl.eu/en
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: I am a Ph.D Student working on Invertible Neural Networks.
 
 # Interests to show in About widget
 interests:
 - Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Deep Learning
+- Normalizing Flows
 
 # Education to show in About widget
 education:
