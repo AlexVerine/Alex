@@ -29,7 +29,8 @@ experience:
     location: Paris
     date_start: '2019-01-09'
     date_end: '2020-01-06'
-    description: Part-Time Research internship on generation of Advbersarial Attacks with Invertible Neural Networks. 
+    description: |2-
+      Part-Time Research internship on generation of Advbersarial Attacks with Invertible Neural Networks. 
 
   - title: Research Intern
     company: Wavestone
@@ -38,7 +39,8 @@ experience:
     location: Paris
     date_start: '2019-01-04'
     date_end: '2019-01-09'
-    description:  Master's degree research internship on Invertible Neural Networks as a defense against Adversarial Attacks.
+    description: |2-
+      Master's degree research internship on Invertible Neural Networks as a defense against Adversarial Attacks.
 
   - title: Research Intern
     company: Advanced Structures & Composites Center - University of Maine
@@ -47,7 +49,8 @@ experience:
     location: Orono, Maine
     date_start: '2018_01-05'
     date_end: '2018-01-08'
-    description:  Master's degree research internship in Organic Photovoltaic Materials Through an Educational Partnership Agreement between the University of Maine and the US Army.
+    description: |2-
+       Master's degree research internship in Organic Photovoltaic Materials Through an Educational Partnership Agreement between the University of Maine and the US Army.
 
 design:
   columns: '2'
