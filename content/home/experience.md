@@ -27,8 +27,8 @@ experience:
     company_url: 'https://www.lamsade.dauphine.fr/en.html'
     company_logo: dauphine
     location: Paris
-    date_start: '2019-01-09'
-    date_end: '2020-01-06'
+    date_start: '2019-09-01'
+    date_end: '2020-06-01'
     description: |2-
       Part-Time Research internship on generation of Advbersarial Attacks with Invertible Neural Networks. 
 
@@ -37,8 +37,8 @@ experience:
     company_url: 'https://www.wavestone.us/'
     company_logo: mldl
     location: Paris
-    date_start: '2019-01-04'
-    date_end: '2019-01-09'
+    date_start: '2019-04-01'
+    date_end: '2019-09-01'
     description: |2-
       Master's degree research internship on Invertible Neural Networks as a defense against Adversarial Attacks.
 
@@ -47,8 +47,8 @@ experience:
     company_url: 'https://composites.umaine.edu/'
     company_logo: ascc
     location: Orono, Maine
-    date_start: '2018_01-05'
-    date_end: '2018-01-08'
+    date_start: '2018_05-01'
+    date_end: '2018-05-01'
     description: |2-
        Master's degree research internship in Organic Photovoltaic Materials Through an Educational Partnership Agreement between the University of Maine and the US Army.
 
