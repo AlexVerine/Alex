@@ -25,7 +25,7 @@ experience:
   - title: Research Intern
     company: LAMSADE - Université Paris-Dauphine
     company_url: 'https://www.lamsade.dauphine.fr/en.html'
-    company_logo: dauphine.png
+    company_logo: dauphine
     location: Paris
     date_start: '2019-01-09'
     date_end: '2020-01-06'
