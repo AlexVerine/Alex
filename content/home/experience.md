@@ -48,7 +48,7 @@ experience:
     company_logo: ascc
     location: Orono, Maine
     date_start: "2018-05-01"
-    date_end: '2018-05-01"
+    date_end: '2018-05-01'
     description: |2-
        Master's degree research internship in Organic Photovoltaic Materials Through an Educational Partnership Agreement between the University of Maine and the US Army.
 
