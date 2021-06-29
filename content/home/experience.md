@@ -34,7 +34,7 @@ experience:
   - title: Research Intern
     company: Wavestone
     company_url: 'https://www.wavestone.us/'
-    company_logo: mldl.png
+    company_logo: mldl
     location: Paris
     date_start: '2019-01-04'
     date_end: '2019-01-09'
@@ -43,7 +43,7 @@ experience:
   - title: Research Intern
     company: Advanced Structures & Composites Center - University of Maine
     company_url: 'https://composites.umaine.edu/'
-    company_logo: ascc.png
+    company_logo: ascc
     location: Orono, Maine
     date_start: '2018_01-05'
     date_end: '2018-01-08'
