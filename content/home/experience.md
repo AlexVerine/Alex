@@ -25,7 +25,7 @@ experience:
   - title: Research Intern
     company: LAMSADE - Université Paris-Dauphine
     company_url: 'https://www.lamsade.dauphine.fr/en.html'
-    company_logo: dauphine
+    company_logo: dauphine.png
     location: Paris
     date_start: '2019-01-09'
     date_end: '2020-01-06'
@@ -34,7 +34,7 @@ experience:
   - title: Research Intern
     company: Wavestone
     company_url: 'https://www.wavestone.us/'
-    company_logo: mldl
+    company_logo: mldl.png
     location: Paris
     date_start: '2019-01-04'
     date_end: '2019-01-09'
@@ -43,7 +43,7 @@ experience:
   - title: Research Intern
     company: Advanced Structures & Composites Center - University of Maine
     company_url: 'https://composites.umaine.edu/'
-    company_logo: ascc
+    company_logo: ascc.png
     location: Orono, Maine
     date_start: '2018_01-05'
     date_end: '2018-01-08'
