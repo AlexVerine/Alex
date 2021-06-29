@@ -5,16 +5,13 @@
 
 main:
   - name: Home
-    url: '#about'
+    url: '#aboutme'
     weight: 10
   - name: Publications
-    url: '#featured'
-    weight: 20
+    url: '#publications'
+    weight: 30
   - name: Teaching
     url: '#teaching'
-    weight: 30
-  - name: About me
-    url: '#aboutme'
     weight: 40
   - name: Contact
     url: '#contact'
