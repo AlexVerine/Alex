@@ -28,18 +28,17 @@ publication_types: ["1"]
 publication: In *ICML Workshop on Invertible Neural Networks, Normalizing Flows, and Explicit Likelihood Models*, 2021
 publication_short: In *INNF+ 2021*
 
-abstract: An invertible function is bi-Lipschitz if both the function and its inverse have bounded Lipschitz constants. Nowadays, most Normalizing Flows are bi-Lipschitz by design or by training to limit
-numerical errors (among other things). In this paper, we discuss the expressivity of bi-Lipschitz Normalizing Flows and identify several target distributions that are difficult to approximate using such models. Then, we characterize the expressivity of bi-Lipschitz Normalizing Flows by giving several lower bounds on the Total Variation distance between these particularly unfavorable distributions and their best possible approximation. Finally, we discuss potential remedies which include using more complex latent distributions.
+abstract: An invertible function is bi-Lipschitz if both the function and its inverse have bounded Lipschitz constants. Nowadays, most Normalizing Flows are bi-Lipschitz by design or by training to limit numerical errors (among other things). In this paper, we discuss the expressivity of bi-Lipschitz Normalizing Flows and identify several target distributions that are difficult to approximate using such models. Then, we characterize the expressivity of bi-Lipschitz Normalizing Flows by giving several lower bounds on the Total Variation distance between these particularly unfavorable distributions and their best possible approximation. Finally, we discuss potential remedies which include using more complex latent distributions.
 
 
 # Custom links (uncomment lines below)
-#links:
-#- name: arXiv
-#  url: 'https://arxiv.org/abs/2107.07232 '
-#- name: OpenReview
-#  url: 'https://openreview.net/forum?id=URKYsI2TFl '
+links:
+- name: arXiv
+  url: 'https://arxiv.org/abs/2107.07232'
+- name: OpenReview
+  url: 'https://openreview.net/forum?id=URKYsI2TFl'
 
-url_pdf: 'https://openreview.net/pdf?id=URKYsI2TFl '
+url_pdf: https://openreview.net/pdf?id=URKYsI2TFl
 url_code: ''
 url_dataset: ''
 url_poster: ''
