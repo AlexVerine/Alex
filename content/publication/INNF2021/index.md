@@ -33,11 +33,11 @@ numerical errors (among other things). In this paper, we discuss the expressivit
 
 
 # Custom links (uncomment lines below)
-links:
-- name: arXiv
-  url: 'https://arxiv.org/abs/2107.07232 '
-- name: OpenReview
-  url: 'https://openreview.net/forum?id=URKYsI2TFl '
+#links:
+#- name: arXiv
+#  url: 'https://arxiv.org/abs/2107.07232 '
+#- name: OpenReview
+#  url: 'https://openreview.net/forum?id=URKYsI2TFl '
 
 url_pdf: 'https://openreview.net/pdf?id=URKYsI2TFl '
 url_code: ''
