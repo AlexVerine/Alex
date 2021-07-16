@@ -32,19 +32,12 @@ abstract: An invertible function is bi-Lipschitz if both the function and its in
 numerical errors (among other things). In this paper, we discuss the expressivity of bi-Lipschitz Normalizing Flows and identify several target distributions that are difficult to approximate using such models. Then, we characterize the expressivity of bi-Lipschitz Normalizing Flows by giving several lower bounds on the Total Variation distance between these particularly unfavorable distributions and their best possible approximation. Finally, we discuss potential remedies which include using more complex latent distributions.
 
 
-
-
-
-
-
-
-
 # Custom links (uncomment lines below)
 links:
 - name: arXiv
-  url: https://arxiv.org/abs/2107.07232
+  url: 'https://arxiv.org/abs/2107.07232'
 - name: OpenReview
-  url: https://openreview.net/forum?id=URKYsI2TFl
+  url: 'https://openreview.net/forum?id=URKYsI2TFl'
 
 url_pdf: 'https://openreview.net/pdf?id=URKYsI2TFl'
 url_code: ''
