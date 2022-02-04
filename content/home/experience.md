@@ -30,7 +30,7 @@ experience:
     date_start: '2019-09-01'
     date_end: '2020-06-01'
     description: |2-
-      Part-Time Research internship on generation of Advbersarial Attacks with Invertible Neural Networks. 
+      Part-Time Research internship on generation of Adversarial Attacks with Invertible Neural Networks. 
 
   - title: Research Intern
     company: Wavestone
