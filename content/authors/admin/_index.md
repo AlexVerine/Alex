@@ -89,4 +89,5 @@ highlight_name: false
 I am a PhD in Artificial Intelligence at the LAMSADE, a joint laboratory of Université Paris-Dauphine. I have worked for a year on Adversarial Attacks on Invertible Neural Networks and generated with Invertible Neural Networks. For now, my research interest are focused on a wider scope : Invertible Neural Network structures. I am working on the theoretical and experimental learning abilities of INNs and more specifically Normalizing Flows.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+
 {{< icon name="download" pack="fas" >}} Internship offer at Dauphine in M2 for summer 2022 : {{< staticref "uploads/internship.pdf" "newtab" >}}subject{{< /staticref >}}.
