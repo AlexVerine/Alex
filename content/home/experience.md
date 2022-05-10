@@ -22,6 +22,15 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
+  - title: PhD
+    company: LAMSADE - Université Paris-Dauphine
+    company_url: 'https://www.lamsade.dauphine.fr/en.html'
+    company_logo: dauphine
+    location: Paris
+    date_start: '2019-09-01'
+    date_end: 
+    description: |2-
+      PhD Student in LAMSAD 
   - title: Research Intern
     company: LAMSADE - Université Paris-Dauphine
     company_url: 'https://www.lamsade.dauphine.fr/en.html'
