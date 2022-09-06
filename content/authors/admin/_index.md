@@ -90,4 +90,3 @@ I am a PhD in Artificial Intelligence at the LAMSADE, a joint laboratory of Univ
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
 
-{{< icon name="download" pack="fas" >}} Internship offer at Dauphine in M2 for summer 2022 : {{< staticref "uploads/internship.pdf" "newtab" >}}Subject{{< /staticref >}}.
