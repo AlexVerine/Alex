@@ -28,8 +28,7 @@ publication_types: ["1"]
 publication: In *Proceedings of The 14th Asian Conference on Machine Learning, PMLR 189*, 2022
 publication_short: In *ACML 2022*
 
-abstract: An invertible function is bi-Lipschitz if both the function and its inverse have bounded Lipschitz constants. Most state-of-the-art Normalizing Flows are bi-Lipschitz by design or by training to limit numerical errors (among other things). In this paper, we discuss the expressivity of bi-Lipschitz Normalizing Flows and identify several target distributions that are difficult to approximate using such models. Then, we characterize the expressivity of biLipschitz Normalizing Flows by giving several lower bounds on the Total Variation distance between these particularly unfavorable distributions and their best possible approximation. Finally, we show how to use the bounds to adjust the training parameters, and discuss
-potential remedies.
+abstract: An invertible function is bi-Lipschitz if both the function and its inverse have bounded Lipschitz constants. Most state-of-the-art Normalizing Flows are bi-Lipschitz by design or by training to limit numerical errors (among other things). In this paper, we discuss the expressivity of bi-Lipschitz Normalizing Flows and identify several target distributions that are difficult to approximate using such models. Then, we characterize the expressivity of biLipschitz Normalizing Flows by giving several lower bounds on the Total Variation distance between these particularly unfavorable distributions and their best possible approximation. Finally, we show how to use the bounds to adjust the training parameters, and discuss potential remedies.
 
 
 # Custom links (uncomment lines below)
