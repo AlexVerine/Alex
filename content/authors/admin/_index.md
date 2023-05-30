@@ -61,7 +61,7 @@ social:
   icon_pack: fab
   link: https://twitter.com/AlexVerine
 - icon: google-scholar # Alternatively, use `google-scholar` icon from `ai` icon pack
-  icon_pack: fas
+  icon_pack: ai
   link: https://scholar.google.co.uk/citations?hl=fr&pli=1&user=l_e0zo8AAAAJ
 - icon: github
   icon_pack: fab
