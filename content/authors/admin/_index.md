@@ -86,7 +86,7 @@ email: ""
 # Highlight the author in author lists? (true/false)
 highlight_name: false
 ---
-I am a PhD in Artificial Intelligence at the LAMSADE, a joint laboratory of Université Paris-Dauphine. I have worked for a year on Adversarial Attacks on Invertible Neural Networks and generated with Invertible Neural Networks. For now, my research interest are focused on a wider scope : Invertible Neural Network structures. I am working on the theoretical and experimental learning abilities of INNs and more specifically Normalizing Flows.
+I am currently a PhD candidate at LAMSADE, a joint research lab of Université Paris-Dauphine and Université PSL, specializing in Machine Learning. My initial research was centered around Adversarial Attacks generated using Invertible Neural Networks. Recently, I have expanded my research interests to delve into the expressivity of generative models. My current work involves both theoretical and experimental exploration of the learning abilities of discriminator-based generative models, specifically examining diversity and sample quality. I have successfully developed GANs and Normalizing Flows, striking a balance between Recall and Precision, tailored to user-specific requirements
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}} or my {{< staticref "uploads/acresume.pdf" "newtab" >}}academic resumé{{< /staticref >}}.
 
