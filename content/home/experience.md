@@ -30,7 +30,7 @@ experience:
     date_start: '2019-09-01'
     date_end: 
     description: |2-
-      PhD Student in LAMSAD 
+      PhD Candidate at LAMSADE working on the expressivity of generative models.
   - title: Research Intern
     company: LAMSADE - Université Paris-Dauphine
     company_url: 'https://www.lamsade.dauphine.fr/en.html'
