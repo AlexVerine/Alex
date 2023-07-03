@@ -18,6 +18,7 @@ subtitle: ''
 
 |Course| Code | Level | Teaching | Year |
 |:------:|:---:|:----:|:------:|:----:|
+|Introduction to Deep Learning | DL | E.M. | Lectures|2023|
 |[Mathematics for Data Science](https://www.lamsade.dauphine.fr/~averine/MSD2022) | MSD | M.S. |Lectures/Seminars|2022|
 |Deep Learning Project | DLP | M.S. |Lectures|2022|
 
