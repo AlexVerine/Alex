@@ -7,7 +7,7 @@ title: "Preprint: Precision-Recall Divergence Optimization for Generative Modeli
 authors:
 - admin
 - Benjamin Negrevergne
-- Fabrice Rossi
+- Muni Sreenivas Pydi
 - Yann Chevaleyre
 
 
@@ -22,11 +22,11 @@ publishDate: "2023-05-01T00:00:00Z"
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["3"]
+publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: 
-publication_short: Arxiv pre-print
+publication: Thirty-seventh Conference on Neural Information Processing Systems
+publication_short: NeurIPS 2023
 
 abstract: Achieving a balance between image quality (precision) and diversity (recall) is a significant challenge in the domain of generative models. Current state-of-the-art models primarily rely on optimizing heuristics, such as the Fréchet Inception Distance. While recent developments have introduced principled methods for evaluating precision and recall, they have yet to be successfully integrated into the training of generative models. Our main contribution is a novel training method for generative models, such as Generative Adversarial Networks and Normalizing Flows, which explicitly optimizes a user-defined trade-off between precision and recall. More precisely, we show that achieving a specified precision-recall trade-off corresponds to minimizing a unique *f*-divergence from a family we call the *PR-divergences*. Conversely, any f-divergence can be written as a linear combination of PR-divergences and corresponds to a weighted precision-recall trade-off. Through comprehensive evaluations, we show that our approach improves the performance of existing state-of-the-art models like BigGAN in terms of either precision or recall when tested on datasets such as ImageNet.
 
