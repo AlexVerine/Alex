@@ -1,5 +1,5 @@
 ---
-title: "Preprint: Precision-Recall Divergence Optimization for Generative Modeling with GANs and Normalizing Flows"
+title: "Precision-Recall Divergence Optimization for Generative Modeling with GANs and Normalizing Flows"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
@@ -34,7 +34,8 @@ abstract: Achieving a balance between image quality (precision) and diversity (r
 links:
 - name: arXiv
   url: 'https://arxiv.org/abs/2305.18910'
-
+- name: Google Scholar
+  ult: 'https://scholar.google.com/citations?view_op=view_citation&hl=en&user=l_e0zo8AAAAJ&citation_for_view=l_e0zo8AAAAJ:9yKSN-GCB0IC'
 url_pdf: https://arxiv.org/pdf/2305.18910.pdf
 url_code: ''
 url_dataset: ''
