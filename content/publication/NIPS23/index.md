@@ -1,5 +1,5 @@
 ---
-title: "NeurIPS23: Precision-Recall Divergence Optimization for Generative Modeling with GANs and Normalizing Flows"
+title: "Precision-Recall Divergence Optimization for Generative Modeling with GANs and Normalizing Flows"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 

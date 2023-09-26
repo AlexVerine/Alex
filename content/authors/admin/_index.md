@@ -25,17 +25,16 @@ bio: I am a Ph.D Student working on Invertible Neural Networks.
 
 # Interests to show in About widget
 interests:
-- Artificial Intelligence
 - Deep Learning
-- Invertible Neural Networks
-- Normalizing Flows
+- Generative Modelling
+- Precision and Recall for Generative Models
 
 # Education to show in About widget
 education:
   courses:
   - course: PhD in Artificial Intelligence
     institution: Université Paris-Dauphine
-    year: 2021
+    year: 2023
   - course: Multidisciplinary Master's Year in Quantitative Economics 
     institution: Université Paris-Dauphine
     year: 2020

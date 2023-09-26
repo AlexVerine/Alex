@@ -1,5 +1,5 @@
 ---
-title: "INNF+2021: On the expressivity of bi-Lipschitz normalizing flows"
+title: "On the expressivity of bi-Lipschitz normalizing flows"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
