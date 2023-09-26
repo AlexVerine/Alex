@@ -35,7 +35,7 @@ links:
 - name: arXiv
   url: 'https://arxiv.org/abs/2302.00628'
 - name: Google Scholar
-  url: 'https://scholar.google.com/citations?view_op=view_citation&hl=en&user=l_e0zo8AAAAJ&citation_for_view=l_e0zo8AAAAJ:u-x6o8ySG0sC'
+  url: 'https://scholar.google.com/citations?view_op=view_citation&hl=en&user=l_e0zo8AAAAJ&citation_for_view=l_e0zo8AAAAJ:9yKSN-GCB0IC'
 url_pdf: 'https://arxiv.org/pdf/2302.00628.pdf'
 url_code: ''
 url_dataset: ''
