@@ -21,7 +21,7 @@ organizations:
   url: https://psl.eu/en
 
 # Short bio (displayed in user profile at end of posts)
-bio: I am a Ph.D Student working on Invertible Neural Networks.
+bio: I am a Ph.D Student working on  the expressivity of Generative Models.
 
 # Interests to show in About widget
 interests:
@@ -85,7 +85,9 @@ email: ""
 # Highlight the author in author lists? (true/false)
 highlight_name: false
 ---
-I am currently a PhD candidate at LAMSADE, a joint research lab of Université Paris-Dauphine and Université PSL, specializing in Machine Learning. My initial research was centered around Adversarial Attacks generated using Invertible Neural Networks. Recently, I have expanded my research interests to delve into the expressivity of generative models. My current work involves both theoretical and experimental exploration of the learning abilities of discriminator-based generative models, specifically examining diversity and sample quality. I have successfully developed GANs and Normalizing Flows, striking a balance between Recall and Precision, tailored to user-specific requirements
+I am currently a PhD candidate at LAMSADE, a joint research lab of Université Paris-Dauphine and Université PSL, specializing in Machine Learning. My initial research was centered around Adversarial Attacks generated using Invertible Neural Networks. Recently, I have expanded my research interests to delve into the expressivity of generative models. 
+
+My current work involves both theoretical and experimental exploration of the learning abilities of discriminator-based generative models, specifically examining diversity and sample quality. I have successfully developed GANs and Normalizing Flows, striking a balance between Recall and Precision, tailored to user-specific requirements
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}} or my {{< staticref "uploads/acresume.pdf" "newtab" >}}academic resumé{{< /staticref >}}.
 
