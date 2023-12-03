@@ -35,8 +35,8 @@ abstract: Rejection sampling methods have recently been proposed to improve the 
 links:
 - name: arXiv
   url: 'https://arxiv.org/abs/2311.00460'
-# - name: Google Scholar
-#   url: 'https://scholar.google.com/citations?view_op=view_citation&hl=en&user=l_e0zo8AAAAJ&citation_for_view=l_e0zo8AAAAJ:u5HHmVD_uO8C'
+- name: Google Scholar
+  url: 'https://scholar.google.com/citations?view_op=view_citation&hl=en&user=l_e0zo8AAAAJ&citation_for_view=l_e0zo8AAAAJ:qjMakFHDy7sC'
 
 url_pdf: https://arxiv.org/pdf/2311.00460.pdf
 url_code: ''
