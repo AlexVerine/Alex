@@ -25,7 +25,7 @@ subtitle: ''
 
 ## Past Courses
 
-|Course| Code | Level | Teaching | Year |:
+|Course| Code | Level | Teaching | Year |
 |:------:|:---:|:----:|:------:|:----:|
 |Deep Learning Project | DLP | M.S. |Lectures|2022-2023|
 |Mathematics for Data Science | MSD | M.S. | Lectures |2020-2023|
