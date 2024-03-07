@@ -56,9 +56,6 @@ social:
 - icon: envelope
   icon_pack: fas
   link: '/#contact'
-- icon: twitter 
-  icon_pack: fab
-  link: https://twitter.com/AlexVerine
 - icon: google-scholar # Alternatively, use `google-scholar` icon from `ai` icon pack
   icon_pack: ai
   link: https://scholar.google.co.uk/citations?hl=fr&pli=1&user=l_e0zo8AAAAJ
