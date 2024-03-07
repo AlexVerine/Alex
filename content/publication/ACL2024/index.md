@@ -13,11 +13,11 @@ authors:
 
 
 
-date: "2023-05-01T00:00:00Z"
+date: "2024-03-01T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2023-05-01T00:00:00Z"
+publishDate: "2024-03-01T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -34,10 +34,10 @@ abstract: This paper introduces a novel evaluation framework for Large Language 
 # Custom links (uncomment lines below)
 links:
 - name: arXiv
-  url: 'https://arxiv.org/abs/2305.18910'
+  url: 'https://arxiv.org/abs/2402.10693'
 - name: Google Scholar
-  url: 'https://scholar.google.com/citations?view_op=view_citation&hl=en&user=l_e0zo8AAAAJ&citation_for_view=l_e0zo8AAAAJ:9yKSN-GCB0IC'
-url_pdf: https://arxiv.org/pdf/2305.18910.pdf
+  url: 'https://scholar.google.com/citations?view_op=view_citation&hl=fr&user=l_e0zo8AAAAJ&citation_for_view=l_e0zo8AAAAJ:Y0pCki6q_DkC'
+url_pdf: https://arxiv.org/abs/2402.10693.pdf
 url_code: ''
 url_dataset: ''
 url_poster: ''
@@ -48,15 +48,15 @@ url_video: ''
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
-# image:
-#  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)'
-#  focal_point: ""
-#  preview_only: false
+image:
+ caption: 'Quality and Diversity of the Pre-trained and Chat LLMs'
+ focal_point: ""
+ preview_only: false
 
 # Associated Projects (optional).
 #   Associate this publication with one or more of your projects.
 #   Simply enter your project's folder or file name without extension.
-#   E.g. `internal-project` references `content/project/internal-project/index.md`.
+
 #   Otherwise, set `projects: []`.
 # projects:
 # - example
