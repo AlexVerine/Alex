@@ -19,8 +19,8 @@ subtitle: ''
 |Course| Code | Level | Teaching | Year |
 |:------:|:---:|:----:|:------:|:----:|
 |[Hands-On IA](https://www.lamsade.dauphine.fr/~averine/weare/liens.html)| EM | We Are | Lectures | 2024 |
-|[Data Analysis](https://www.lamsade.dauphine.fr/~averine/AnalyseDonnees/)| DA | B.S. | Seminars | 2024 |
-|Introduction to Deep Learning | DL | E.M. | Lectures|2023-2024|
+|[Introduction to Deep Learning](https://www.lamsade.dauphine.fr/~averine/EM_IASD/liens.html)| DL | E.M. | Lectures|2023-2024|
+
 
 
 ## Past Courses
