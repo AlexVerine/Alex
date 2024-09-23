@@ -18,7 +18,7 @@ subtitle: ''
 
 |Course| Code | Level | Teaching | Year |
 |:------:|:---:|:----:|:------:|:----:|
-| [Deep Leaning II](https://www.lamsade.dauphine.fr/~averine/DL3AIISO/liens.html) | DL3AIISO | B.S. | Lectures | 2024 |
+| [Deep Learning II](https://www.lamsade.dauphine.fr/~averine/DL3AIISO/liens.html) | DL3AIISO | B.S. | Lectures | 2024 |
 |[Hands-On IA](https://www.lamsade.dauphine.fr/~averine/weare/liens.html)| EM | We Are | Lectures | 2024 |
 |Introduction to Deep Learning | DL | E.M. | Lectures|2023-2024|
 |[Projet IA](https://www.lamsade.dauphine.fr/~averine/ProjetIA/liens.html) | IA | E.M. | Lectures | 2022-2024|
