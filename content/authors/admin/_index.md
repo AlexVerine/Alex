@@ -86,5 +86,5 @@ I am currently a PhD candidate at LAMSADE, a joint research lab of Université P
 
 My initial research was centered around Adversarial Attacks generated using Invertible Neural Networks. However, mu current work focuses on the expressivity of Generative Models and the trade-off between the quality and the diversity of the generated data. By properly choosing the divergence that models are trained to minimize, the overall behavior can be set in advance, and thus I have worked on tuning and improving models such as Normalizing Flows, Generative Adversarial Networks or Diffusion Models. 
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}} or my {{< staticref "uploads/acresume.pdf" "newtab" >}}academic resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
 
