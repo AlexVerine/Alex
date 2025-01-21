@@ -84,5 +84,5 @@ I am currently a Research Fellow at CSD at ENS PSL, specializing in Generative M
 
 I am currently looking for interns at Université Paris Dauphine to work on Diffusion Models: {{<icon name="download" pack="fas">}} Download the offer {{< staticref "uploads/topic.pdf" "newtab" >}}here{{< /staticref >}}.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}}Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
 
