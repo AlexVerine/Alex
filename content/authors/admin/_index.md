@@ -21,7 +21,7 @@ organizations:
   url: https://psl.eu/en
 
 # Short bio (displayed in user profile at end of posts)
-bio: I am a Ph.D Student working on  the expressivity of Generative Models.
+bio: I am currently a Research Fellow at CSD at ENS PSL, specializing in Generative Models.
 
 # Interests to show in About widget
 interests:
@@ -34,7 +34,7 @@ education:
   courses:
   - course: PhD in Artificial Intelligence
     institution: Université Paris-Dauphine
-    year: 2023
+    year: 2024
   - course: Multidisciplinary Master's Year in Quantitative Economics 
     institution: Université Paris-Dauphine
     year: 2020
@@ -82,9 +82,9 @@ email: ""
 # Highlight the author in author lists? (true/false)
 highlight_name: false
 ---
-I am currently a PhD candidate at LAMSADE, a joint research lab of Université Paris-Dauphine and Université PSL, specializing in Generative Models.
+I am currently a Research Fellow at CSD at ENS PSL, specializing in Generative Models. I defended my PhD in July 2024 at Université Paris-Dauphine under the supervision of Prof. Yann Chevaleyre. My research was centered around the expressivity of Generative Models and the trade-off between the quality and the diversity of the generated data. By properly choosing the divergence that models are trained to minimize, the overall behavior can be set in advance, and thus I have worked on tuning and improving models such as Normalizing Flows, Generative Adversarial Networks or Diffusion Models.
 
-My initial research was centered around Adversarial Attacks generated using Invertible Neural Networks. However, mu current work focuses on the expressivity of Generative Models and the trade-off between the quality and the diversity of the generated data. By properly choosing the divergence that models are trained to minimize, the overall behavior can be set in advance, and thus I have worked on tuning and improving models such as Normalizing Flows, Generative Adversarial Networks or Diffusion Models. 
+I am currently looking for interns at Université Paris Dauphine to work on Diffusion Models: {{<icon name="download" pack="fas">}} Download the offer {{< staticref "uploads/topic.pdf" "newtab" >}}here{{< /staticref >}}.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
 

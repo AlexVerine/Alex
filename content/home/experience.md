@@ -22,13 +22,22 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
+  - title: Research Fellow IA
+    company: Université PSL - École Normale Supérieure PSL
+    company_url: 'https://csd.ens.psl.eu/'
+    company_logo: ens
+    location: Paris
+    date_start: '2024-09-01'
+    date_end: ''
+    description: |2-
+      Research Fellow at Center for Sciences of Data (CSD) working on generative models.
   - title: PhD
     company: LAMSADE - Université Paris-Dauphine
     company_url: 'https://www.lamsade.dauphine.fr/en.html'
     company_logo: dauphine
     location: Paris
-    date_start: '2019-09-01'
-    date_end: 
+    date_start: '2020-09-01'
+    date_end: '2024-06-30'
     description: |2-
       PhD Candidate at LAMSADE working on the expressivity of generative models.
   - title: Research Intern

@@ -18,17 +18,16 @@ subtitle: ''
 
 |Course| Code | Level | Teaching | Year |
 |:------:|:---:|:----:|:------:|:----:|
-| [Deep Learning II](https://www.lamsade.dauphine.fr/~averine/DL3AIISO/liens.html) | DL3AIISO | B.S. | Lectures | 2024 |
-|[Hands-On IA](https://www.lamsade.dauphine.fr/~averine/weare/liens.html)| EM | We Are | Lectures | 2024 |
-|Introduction to Deep Learning | DL | E.M. | Lectures|2023-2024|
-|[Projet IA](https://www.lamsade.dauphine.fr/~averine/ProjetIA/liens.html) | IA | E.M. | Lectures | 2022-2024|
+| Deep Learning II| DL3AIISO | B.S. | Lectures | 2024 |
+| Hands-On IA| EM | We Are | Lectures | 2024-2025 |
+| [Introduction to Deep Learning](https://www.lamsade.dauphine.fr/~averine/EM_IASD/liens.html) | DL | E.M. | Lectures|2023-2025|
+| Projet IA | IA | E.M. | Lectures | 2022-2024 |
 |Deep Learning Project | DLP | M.S. |Lectures|2022-2024|
 
 ## Past Courses
 
 |Course| Code | Level | Teaching | Year |
 |:------:|:---:|:----:|:------:|:----:|
-|Deep Learning Project | DLP | M.S. |Lectures|2022-2023|
 |Mathematics for Data Science | MSD | M.S. | Lectures |2020-2023|
 |Artificial Intelligence | IA | M.S. |Seminars|2021|
 |Introduction to Normalizing Flow | A | M.S. |Lectures|2021|
