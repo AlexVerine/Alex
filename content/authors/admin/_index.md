@@ -6,17 +6,15 @@ title: Alexandre Vérine
 superuser: true
 
 # Role/position/tagline
-role: Ph.D Student
+role: Research Fellow IA 
 
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: MILES
-  url: https://www.lamsade.dauphine.fr/wp/miles/
-- name: LAMSADE
-  url: https://www.lamsade.dauphine.fr/en.html
-- name: Université Paris-Dauphine
-  url: https://dauphine.psl.eu/en/
+- name: CSD - ENS PSL
+  url: https://www.csd.ens.psl.eu/
+- name: École Normale Supérieure PSL
+  url: https://www.ens.psl.eu/
 - name: Université Paris Sciences et Lettres
   url: https://psl.eu/en
 
