@@ -19,7 +19,7 @@ subtitle: ''
 |Course| Code | Level | Teaching | Year |
 |:------:|:---:|:----:|:------:|:----:|
 | Deep Learning II| DL3AIISO | B.S. | Lectures | 2024 |
-| Hands-On IA| EM | We Are | Lectures | 2024-2025 |
+| [Hands-On IA](https://www.lamsade.dauphine.fr/~averine/weare/liens.html) | EM | We Are | Lectures | 2024-2025 |
 | [Introduction to Deep Learning](https://www.lamsade.dauphine.fr/~averine/EM_IASD/liens.html) | DL | E.M. | Lectures|2023-2025|
 | Projet IA | IA | E.M. | Lectures | 2022-2024 |
 |Deep Learning Project | DLP | M.S. |Lectures|2022-2024|
