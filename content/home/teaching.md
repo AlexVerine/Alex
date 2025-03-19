@@ -18,6 +18,7 @@ subtitle: ''
 
 |Course| Code | Level | Teaching | Year |
 |:------:|:---:|:----:|:------:|:----:|
+| [Biblio CCL](https://docs.google.com/presentation/d/1qBYAf9BrOBUwtpPo0ZT3pkAb4xCHCNpn/edit?usp=sharing&ouid=112781810879545627823&rtpof=true&sd=true) | Jo | Jo | Lectures | 2024 |
 | Deep Learning II| DL3AIISO | B.S. | Lectures | 2024 |
 | [Hands-On IA](https://www.lamsade.dauphine.fr/~averine/weare/liens.html) | WeAre | Certificate | Lectures | 2024-2025 |
 | [Introduction to Deep Learning](https://www.lamsade.dauphine.fr/~averine/EM_IASD/liens.html) | DL | E.M. | Lectures|2023-2025|
