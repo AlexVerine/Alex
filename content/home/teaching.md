@@ -18,7 +18,7 @@ subtitle: ''
 
 |Course| Code | Level | Teaching | Year |
 |:------:|:---:|:----:|:------:|:----:|
-| [Projet IA](https://drive.google.com/drive/folders/1bOc2Wqh49UfaicsR6JRCWmy7IEpSER5C?usp=sharing) | IA | E.M. | Lectures | 2022-2025 |
+| [Projet IA](https://www.lamsade.dauphine.fr/~averine/ProjetIA/liens.html) | IA | E.M. | Lectures | 2022-2025 |
 | Deep Learning II| DL3AIISO | B.S. | Lectures | 2024 |
 | Hands-On IA | WeAre | Certificate | Lectures | 2024-2025 |
 | Introduction to Deep Learning | DL | E.M. | Lectures|2023-2025|
