@@ -18,10 +18,10 @@ subtitle: ''
 
 |Course| Code | Level | Teaching | Year |
 |:------:|:---:|:----:|:------:|:----:|
+| [Projet IA](https://drive.google.com/drive/folders/1OAbfRcggkuYP_IIYggruZL67qWwwsQ2C?usp=sharing) | IA | E.M. | Lectures | 2022-2025 |
 | Deep Learning II| DL3AIISO | B.S. | Lectures | 2024 |
 | Hands-On IA | WeAre | Certificate | Lectures | 2024-2025 |
 | Introduction to Deep Learning | DL | E.M. | Lectures|2023-2025|
-| [Projet IA](https://drive.google.com/drive/folders/1OAbfRcggkuYP_IIYggruZL67qWwwsQ2C?usp=sharing) | IA | E.M. | Lectures | 2022-2024 |
 |Deep Learning Project | DLP | M.S. |Lectures|2022-2024|
 
 ## Past Courses
