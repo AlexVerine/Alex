@@ -18,8 +18,9 @@ subtitle: ''
 
 |Course| Code | Level | Teaching | Year |
 |:------:|:---:|:----:|:------:|:----:|
+| [IA Générative](https://www.lamsade.dauphine.fr/~averine/GenAI/liens.html) | IA | M.S. | Lectures | 2025 |
 | [Projet IA](https://www.lamsade.dauphine.fr/~averine/ProjetIA/liens.html) | IA | E.M. | Lectures | 2022-2025 |
-| [Deep Learning II](https://www.lamsade.dauphine.fr/~averine/DL3IASO/liens.html) | DL3AIISO | B.S. | Lectures | 2024 |
+| [Deep Learning II](https://www.lamsade.dauphine.fr/~averine/DL3IASO/liens.html) | DL3AIISO | B.S. | Lectures | 2024-2025 |
 | Hands-On IA | WeAre | Certificate | Lectures | 2024-2025 |
 | [Introduction to Deep Learning](https://www.lamsade.dauphine.fr/~averine/EM_IASD/liens.html) | DL | E.M. | Lectures|2023-2025|
 |Deep Learning Project | DLP | M.S. |Lectures|2022-2024|
