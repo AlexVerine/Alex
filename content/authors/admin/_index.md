@@ -25,7 +25,7 @@ bio: I am currently a Research Fellow at CSD at ENS PSL, specializing in Generat
 interests:
 - Deep Learning
 - Generative Modelling
-- Precision and Recall for Generative Models
+- Quality and Diversity in Generative Models
 
 # Education to show in About widget
 education:
@@ -80,7 +80,7 @@ email: ""
 # Highlight the author in author lists? (true/false)
 highlight_name: false
 ---
-I am currently a Research Fellow at CSD at ENS PSL, specializing in Generative Models. I defended my PhD in July 2024 at Université Paris-Dauphine under the supervision of Prof. Yann Chevaleyre. My research was centered around the expressivity of Generative Models and the trade-off between the quality and the diversity of the generated data. By properly choosing the divergence that models are trained to minimize, the overall behavior can be set in advance, and thus I have worked on tuning and improving models such as Normalizing Flows, Generative Adversarial Networks or Diffusion Models.
+I am currently a Research Fellow at Centre des Sciences des Données at ENS -PSL, specializing in Generative Models. I defended my PhD in July 2024 at Université Paris-Dauphine under the supervision of Prof. Yann Chevaleyre. My research was centered around the expressivity of Generative Models and the trade-off between the quality and the diversity of the generated data. By properly choosing the divergence that models are trained to minimize, the overall behavior can be set in advance, and thus I have worked on tuning and improving models such as Diffusion Models or LLMs.
 
 {{< icon name="download" pack="fas" >}}Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
 
