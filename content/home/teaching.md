@@ -25,6 +25,7 @@ subtitle: ''
 | [Deep Learning 2](https://www.lamsade.dauphine.fr/~averine/DL3IASO/liens.html) | L3IASO | B.S. | Lectures | 2024-2025 |
 | [Introduction to Deep Learning](https://www.lamsade.dauphine.fr/~averine/EM_IASD/liens.html) | IASD EM | E.M. | Lectures|2023-2025|
 | [DataLab IASD](https://www.lamsade.dauphine.fr/~averine/Datalab/) | IASD | M.S. |Lectures|2022-2025|
+| [Certification IA](https://www.lamsade.dauphine.fr/~averine/certificat_IA/liens.html) | Certification | E.M. | Lectures | 2026 |
 </div>
 
 ## Past Courses
